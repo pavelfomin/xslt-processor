@@ -1,5 +1,5 @@
 # xslt-processor
-Packaged Xalan xslt processor with its dependendencies.
+Packaged Xalan xslt processor with its dependencies.
 
 ## Usage
-`java -jar xslt-processor-$REPORTER_VERSION.jar -in <source.xml> -xsl <report.xsl>`
+`java -jar xslt-processor-<version>.jar -in <source.xml> -xsl <report.xsl>`
